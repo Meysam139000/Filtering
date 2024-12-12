@@ -20,7 +20,6 @@ rang='\033[34m'
 
 
 os.system("clear")
-print( fore.green + "")
 print("I'M ' Meysam ' Tikafil")
 print("Code Filteri Rubika")
 print("Code : 0.0.0.0.0.0.0.0.0.0 ")
